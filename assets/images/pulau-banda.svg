@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0369A1"/>
+      <stop offset="100%" style="stop-color:#0D9488"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="200" fill="url(#bg)"/>
+  <text x="200" y="90" text-anchor="middle" font-family="Poppins,sans-serif" font-size="22" font-weight="700" fill="white">Pulau Banda</text>
+  <text x="200" y="130" text-anchor="middle" font-family="Inter,sans-serif" font-size="13" fill="rgba(255,255,255,0.7)">Kepulauan Rempah</text>
+  <text x="200" y="170" text-anchor="middle" font-family="Inter,sans-serif" font-size="10" fill="rgba(255,255,255,0.4)">Ganti dengan pulau-banda.jpg</text>
+</svg>
